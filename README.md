@@ -1,5 +1,7 @@
 # Agent Token Check — MCP server
 
+[![Agent Token Check MCP connector](https://glama.ai/mcp/connectors/io.github.mintnft04/agent-token-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mintnft04/agent-token-check)
+
 <!-- mcp-name: io.github.mintnft04/agent-token-check -->
 
 Remote MCP server that tells an AI agent whether a crypto token is safe to touch before it buys, swaps or approves it.
